@@ -1,5 +1,7 @@
 #first version
 my favourite colour is red.
-no i was wrong.  it's actally green now.
+no i was wrong.  it's actally blue now.
 
 just keep getting it wrong.  Orange!
+ a new line
+
